@@ -1,26 +1,23 @@
-# Hi, I'm Akhil!
+# Hey, I'm Akhil
 
-I'm an IT professional with a background in cloud computing, data analysis, and software development. I enjoy building things, solving problems, and learning new technologies.
+IT guy based out of the DC area. I work in government IT support right now (Pentagon), but I'm always messing around with side projects - Python scripts, AI tools, cloud stuff, whatever catches my interest.
 
-This GitHub is a collection of projects I've worked on - everything from deploying cloud infrastructure in Azure to building AI-powered tools and analyzing data with Python and SPSS.
+This is where I keep everything I've been working on.
 
-## AI & Machine Learning
-- [AI Resume Screener](https://github.com/akhilvaswani/ai-resume-screener) - Resume screening tool that matches candidates to jobs using OpenAI embeddings, skill extraction, and scoring breakdowns
-- [ML Image Classifier](https://github.com/akhilvaswani/ml-image-classifier) - CNN-based image classification system built with TensorFlow and Keras, with data augmentation and transfer learning
-- [NLP Document Summarizer](https://github.com/akhilvaswani/nlp-document-summarizer) - Text summarization tool using extractive and abstractive NLP techniques with the OpenAI API
-- [AI Sentiment Analyzer](https://github.com/akhilvaswani/ai-sentiment-analyzer) - Python tool that uses the OpenAI API to analyze text sentiment with batch processing support
+## AI / ML Projects
+- [AI Resume Screener](https://github.com/akhilvaswani/ai-resume-screener) - Screens resumes against job descriptions using OpenAI embeddings and pulls out a score breakdown
+- [ML Image Classifier](https://github.com/akhilvaswani/ml-image-classifier) - Image classifier trained on CIFAR-10 with TensorFlow, includes data augmentation and transfer learning
+- [NLP Document Summarizer](https://github.com/akhilvaswani/nlp-document-summarizer) - Summarizes long documents using Hugging Face BART, has a Flask API
+- [AI Sentiment Analyzer](https://github.com/akhilvaswani/ai-sentiment-analyzer) - Analyzes text sentiment through the OpenAI API, supports batch processing
 
 ## Cloud & Networking
-- [Azure VM Deployment](https://github.com/akhilvaswani/azure-vm-deployment) - Step-by-step guide to deploying and configuring a virtual machine in Microsoft Azure
-- [Network Traffic Analysis](https://github.com/akhilvaswani/network-traffic-analysis) - Capturing and analyzing network traffic with Wireshark in a cloud environment
+- [Azure VM Deployment](https://github.com/akhilvaswani/azure-vm-deployment) - Full walkthrough of spinning up and configuring a VM in Azure
+- [Network Traffic Analysis](https://github.com/akhilvaswani/network-traffic-analysis) - Captured and analyzed network traffic with Wireshark in a cloud lab
 
-## Data Analysis
-- [SPSS Data Analysis](https://github.com/akhilvaswani/spss-data-analysis) - Statistical analysis projects using IBM SPSS and JMP
-- [Finance Excel Models](https://github.com/akhilvaswani/finance-excel-models) - Financial modeling and analysis projects built in Excel
+## Data & Analysis
+- [SPSS Data Analysis](https://github.com/akhilvaswani/spss-data-analysis) - Stats projects using SPSS and JMP
+- [Finance Excel Models](https://github.com/akhilvaswani/finance-excel-models) - Financial models and analysis in Excel
 
-## Software Development
-- [OOP Design Patterns](https://github.com/akhilvaswani/oop-design-patterns) - Java projects demonstrating object-oriented design patterns and principles
-- [Simulations and Tools](https://github.com/akhilvaswani/simulations-and-tools) - Java-based simulations and utility programs
-
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilvaswani)
+## Java Projects
+- [OOP Design Patterns](https://github.com/akhilvaswani/oop-design-patterns) - OOP projects in Java - inheritance, polymorphism, abstract classes
+- [Simulations and Tools](https://github.com/akhilvaswani/simulations-and-tools) - Probability sims, converters, and utility programs
