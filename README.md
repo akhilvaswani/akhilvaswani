@@ -4,12 +4,15 @@ I'm an IT professional with a background in cloud computing, data analysis, and 
 
 This GitHub is a collection of projects I've worked on - everything from deploying cloud infrastructure in Azure to building AI-powered tools and analyzing data with Python and SPSS.
 
+## AI & Machine Learning
+- [AI Resume Screener](https://github.com/akhilvaswani/ai-resume-screener) - Resume screening tool that matches candidates to jobs using OpenAI embeddings, skill extraction, and scoring breakdowns
+- [ML Image Classifier](https://github.com/akhilvaswani/ml-image-classifier) - CNN-based image classification system built with TensorFlow and Keras, with data augmentation and transfer learning
+- [NLP Document Summarizer](https://github.com/akhilvaswani/nlp-document-summarizer) - Text summarization tool using extractive and abstractive NLP techniques with the OpenAI API
+- [AI Sentiment Analyzer](https://github.com/akhilvaswani/ai-sentiment-analyzer) - Python tool that uses the OpenAI API to analyze text sentiment with batch processing support
+
 ## Cloud & Networking
 - [Azure VM Deployment](https://github.com/akhilvaswani/azure-vm-deployment) - Step-by-step guide to deploying and configuring a virtual machine in Microsoft Azure
 - [Network Traffic Analysis](https://github.com/akhilvaswani/network-traffic-analysis) - Capturing and analyzing network traffic with Wireshark in a cloud environment
-
-## AI & Development
-- [AI Sentiment Analyzer](https://github.com/akhilvaswani/ai-sentiment-analyzer) - Python tool that uses the OpenAI API to analyze text sentiment with batch processing support
 
 ## Data Analysis
 - [SPSS Data Analysis](https://github.com/akhilvaswani/spss-data-analysis) - Statistical analysis projects using IBM SPSS and JMP
@@ -20,4 +23,4 @@ This GitHub is a collection of projects I've worked on - everything from deployi
 - [Simulations and Tools](https://github.com/akhilvaswani/simulations-and-tools) - Java-based simulations and utility programs
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilvaswani/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilvaswani)
