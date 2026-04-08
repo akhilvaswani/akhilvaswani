@@ -12,9 +12,9 @@ I build things on the side to keep learning -- mostly Python tools, ML experimen
 
 ## AI Tools & Infrastructure
 
-- [Claude Code Setup](https://github.com/akhilvaswani/claude-code-setup) -- End-to-end guide for installing, configuring, and integrating Claude Code into development workflows. Covers authentication, MCP servers, project settings, and shell integration
-- [Local LLM Deployment](https://github.com/akhilvaswani/local-llm-deployment) -- Guide to running open-source models locally with Ollama and Open WebUI. Includes GPU configuration, model selection, and custom Modelfile examples
-- [AI API Toolkit](https://github.com/akhilvaswani/ai-api-toolkit) -- Python utility library for working with OpenAI, Anthropic, and Google Gemini APIs through a unified interface. Handles streaming, retries, token counting, and cost tracking
+- [Claude Code Setup](https://github.com/akhilvaswani/claude-code-setup) -- Guide for installing, configuring, and integrating Claude Code into development workflows. Authentication, MCP servers, project settings, and shell integration
+- [Local LLM Deployment](https://github.com/akhilvaswani/local-llm-deployment) -- Guide to running open-source models locally with Ollama and Open WebUI. 
+- [AI API Toolkit](https://github.com/akhilvaswani/ai-api-toolkit) -- Python utility library for working with OpenAI, Anthropic, and Google Gemini APIs through a unified interface. 
 
 ## Cloud & Networking
 
