@@ -9,7 +9,6 @@ I build things on the side to keep learning -- mostly Python tools, ML experimen
 - [ML Image Classifier](https://github.com/akhilvaswani/ml-image-classifier) -- Trained on CIFAR-10 using TensorFlow. Played around with data augmentation and transfer learning to get better accuracy
 - [NLP Document Summarizer](https://github.com/akhilvaswani/nlp-document-summarizer) -- Feeds long documents through Hugging Face BART and spits out summaries. Wrapped it in a Flask API so it's easy to use
 - [AI Sentiment Analyzer](https://github.com/akhilvaswani/ai-sentiment-analyzer) -- Hooks into the OpenAI API to do sentiment analysis on text. Can handle batch processing for larger datasets
-- [AI Resume Screener](https://github.com/akhilvaswani/ai-resume-screener) -- Matches resumes against job descriptions using OpenAI embeddings and automated skill extraction
 
 ## AI Tools & Infrastructure
 
